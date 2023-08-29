@@ -6,17 +6,15 @@
     "slug": "tech-andgar",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 336,
-    "timeDay": 249,
-    "timeWeek": 235,
-    "timeMonth": 331,
+    "timeDay": 174,
+    "timeWeek": 215,
+    "timeMonth": 325,
     "timeYear": 336,
-    "dailyMinutesDown": {
-      "2023-08-28": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
