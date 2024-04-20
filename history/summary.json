@@ -4,17 +4,19 @@
     "url": "https://www.tech-andgar.me",
     "icon": "https://icons.duckduckgo.com/ip3/www.tech-andgar.me.ico",
     "slug": "tech-andgar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 331,
-    "timeDay": 462,
-    "timeWeek": 374,
-    "timeMonth": 332,
+    "timeDay": 341,
+    "timeWeek": 355,
+    "timeMonth": 329,
     "timeYear": 325,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-20": 0
+    }
   }
 ]
