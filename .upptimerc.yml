@@ -26,5 +26,8 @@ commitMessages:
   commitAuthorName: "Andrés García [Bot]"
   commitAuthorEmail: "dev@tech-andgar.me"
 
+workflowSchedule:
+  uptime: "*/120 * * * *"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
